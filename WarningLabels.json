@@ -1,15 +1,20 @@
 {
-  "Psycho": "Blood, Gore",
-  "IEXIST": "Blood",
-  "Universal Glitcher v2": "Flashy effects",
-  "Blood": "Blood",
-  "Disturbed": "Disturbing character, blood",
-  "VeltexV1": "Blood",
-  "VeltexV1": "Blood",
-  "Madnessv2": "Blood",
-  "Hellash": "Blood",
-  "Magical Doctor": "Blood",
-  "Mareno": "Gore, Blood",
-  "KillingSpree": "Blood",
-  "Insanity": "Blood"
+    "Scripts": {
+        "Psycho": "Blood, Gore",
+        "IEXIST": "Blood",
+        "Universal Glitcher v2": "Flashy effects",
+        "Blood": "Blood",
+        "Disturbed": "Disturbing character, blood",
+        "VeltexV1": "Blood",
+        "VeltexV1": "Blood",
+        "Madnessv2": "Blood",
+        "Hellash": "Blood",
+        "Magical Doctor": "Blood",
+        "Mareno": "Gore, Blood",
+        "KillingSpree": "Blood",
+        "Insanity": "Blood"
+    },
+    "Tools": {},
+    "Models": {},
+    "Guis": {}
 }

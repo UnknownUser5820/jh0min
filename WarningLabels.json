@@ -39,7 +39,10 @@
         "MP5SD": "Blood",
         "Makarov": "Gore, Blood",
         "axe": "Gore, Blood",
-        "sword": "Gore, Blood"
+        "sword": "Gore, Blood",
+        "Deagle": "Gore, Blood",
+        "DesertEagle": "Gore, Blood",
+        "bat": "Gore, Blood"
     },
     "Models": {},
     "Guis": {}

@@ -8,13 +8,39 @@
         "VeltexV1": "Blood",
         "VeltexV2": "Blood",
         "Madnessv2": "Blood",
-        "Hellash": "Blood",
+        "Hellash": "Gore, Blood",
         "Magical Doctor": "Blood",
         "Mareno": "Gore, Blood",
         "KillingSpree": "Blood",
-        "Insanity": "Blood"
+        "Insanity": "Blood",
+        "Shini-G4-MI": "Blood",
+        "Sociopath": "Blood",
+        "SledgeHammer": "Gore, Blood",
+        "Neurotic": "Blood",
+        "Revolver": "Gore, Blood",
+        "Quenox": "Gore, Blood",
+        "Killbot": "Gore, Blood, Neck snap",
+        "Fable": "Blood",
+        "MPX": "Blood",
+        "MPX [FPS]": "Blood",
+        "MPX [FPS][ARCADE]": "Blood",
+        "Mutant": "Gore, Blood",
+        "Polemeus": "Blood",
+        "ResEvil5": "Blood",
+        "Tesseract": "Blood"
     },
-    "Tools": {},
+    "Tools": {
+        "AK74": "Blood",
+        "AK74u": "Blood",
+        "AK-47uthatshootsoversizedbullet": "Gore, Blood"
+        "Bloodyaxe": "Blood",
+        "M134": "Blood",
+        "M45A1Suppressed": "Blood",
+        "MP5SD": "Blood",
+        "Makarov": "Gore, Blood",
+        "axe": "Gore, Blood",
+        "sword": "Gore, Blood"
+    },
     "Models": {},
     "Guis": {}
 }
